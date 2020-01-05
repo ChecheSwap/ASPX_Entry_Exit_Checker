@@ -7,7 +7,7 @@ namespace checadorAsp.DB
 {
     public static class SQLQ
     {
-        public static string connectionString = "Data Source=VESTIGIUM_SENEX; Initial Catalog=checador; User ID=JJNAVARRETE; Password=CHECHE123#123";
+        public static string connectionString = "Data Source=VESTIGIUM_SENEX; Initial Catalog=checador; User ID=.|.; Password=.|.";
 
         public static string GetBitacora      = "dbo.bdConsulta";
 
