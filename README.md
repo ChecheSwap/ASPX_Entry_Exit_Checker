@@ -1,5 +1,5 @@
 # ASPX_Entry_Exit_Checker
-Project of User's Entries and Exits Using ASPX.NET -> C#  and Microsoft Sql Server data base engine with T-SQL.
+Project of User's Entries and Exits Using ASPX.NET -> C#  and Microsoft Sql Server data base engine with T-SQL...
 
 ![1](https://user-images.githubusercontent.com/21239660/71774493-6273a000-2f2d-11ea-8827-3bf10e375fab.PNG)
 ![2](https://user-images.githubusercontent.com/21239660/71774494-6273a000-2f2d-11ea-8dc2-148263a1ed6c.PNG)
